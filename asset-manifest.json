@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/portfolio/static/js/main.96f37cf4.js",
-    "static/media/foodMunch.png": "/portfolio/static/media/foodMunch.8bef109b57da02f12b7f.png",
-    "static/media/nxtWatch.png": "/portfolio/static/media/nxtWatch.d6420a824daaa94316c6.png",
-    "static/media/fruits.png": "/portfolio/static/media/fruits.97e3c1b9e3b4ea904163.png",
-    "static/media/nxttrends.png": "/portfolio/static/media/nxttrends.80ef24521837edbb5c7f.png",
-    "static/media/pregabot.png": "/portfolio/static/media/pregabot.3ba50ab116d7b2f719b5.png",
-    "static/media/quick keep.png": "/portfolio/static/media/quick keep.621f2104d0a5cfb57301.png",
-    "static/media/jobby.png": "/portfolio/static/media/jobby.345e26d9214323199acb.png",
-    "static/media/wikepidia.png": "/portfolio/static/media/wikepidia.e60e5d6d4c723bf330fa.png",
-    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.b3042bc9995290ade1f3.jpg",
+    "main.js": "/portfolio/static/js/main.dc07f71a.js",
+    "static/media/foodMunch.png": "/portfolio/static/media/foodMunch.e46bdb41fcbdb8a201d9.png",
+    "static/media/nxtWatch.png": "/portfolio/static/media/nxtWatch.2dff7808e85c22b67aa9.png",
+    "static/media/fruits.png": "/portfolio/static/media/fruits.c40fb31f2145f9aee8bf.png",
+    "static/media/nxttrends.png": "/portfolio/static/media/nxttrends.8f55b9ec65ddfcdd1ef7.png",
+    "static/media/pregabot.png": "/portfolio/static/media/pregabot.07a397c8332e656ec8aa.png",
+    "static/media/quick keep.png": "/portfolio/static/media/quick keep.3f8e86a7aaa9d6e77646.png",
+    "static/media/wikepidia.png": "/portfolio/static/media/wikepidia.5019ec1ed0e0d737e6ef.png",
+    "static/media/jobby.png": "/portfolio/static/media/jobby.fa958dd34fe0cedd8424.png",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.38adff34ddf502bceabe.jpg",
     "index.html": "/portfolio/index.html",
     "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
-    "main.96f37cf4.js.map": "/portfolio/static/js/main.96f37cf4.js.map"
+    "main.dc07f71a.js.map": "/portfolio/static/js/main.dc07f71a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.96f37cf4.js"
+    "static/js/main.dc07f71a.js"
   ]
 }
